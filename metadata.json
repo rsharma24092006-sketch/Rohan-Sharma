@@ -1,0 +1,8 @@
+{
+  "name": "VaxReach – Immunization Gap Detection and Outreach Planning",
+  "description": "Healthcare decision-support platform designed to identify missed child vaccination sessions, explain locality risk factors, generate prioritized field outreach plans, and manage vaccination bookings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
